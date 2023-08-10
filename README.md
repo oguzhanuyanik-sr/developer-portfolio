@@ -1,7 +1,7 @@
 # Developer Portfolio
 
 ```
-React, React Router, React Vertical Timeline Component, Three, Tailwindcss, Vite, Emailjs
+React, React Router, React Vertical Timeline Component, ThreeJS, EmailJS, Tailwind
 ```
 
 ### <a href="https://developer-portfolio-dusky-rho.vercel.app/">Live Demo</a>
